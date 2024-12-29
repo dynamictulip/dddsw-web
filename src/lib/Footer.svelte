@@ -64,4 +64,13 @@
 	h2 {
 		padding: 0 10px;
 	}
+
+	.icon {
+		color: black;
+		transition: color 0.3s;
+	}
+
+	.icon:hover {
+		color: white;
+	}
 </style>
